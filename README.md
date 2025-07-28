@@ -38,7 +38,4 @@ To develop a complete school management solution with:
 
 ---
 
-## 📁 Folder Structure (Planned)
-
-```
 
