@@ -1,8 +1,3 @@
-Sure! Here's a **ready-to-copy-paste `README.md`** for your **School Management System** project using **React + Laravel + MySQL**:
-
----
-
-```markdown
 # 🏫 School Management System
 
 A full-stack **School Management System** built with **React**, **Laravel**, and **MySQL**.  
